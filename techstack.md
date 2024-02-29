@@ -3,9 +3,9 @@
 ## Tech Stack
 zinzindev/CC14-Recap-FullStack-Todolist-API is built on the following main stack:
 
-- [MySQL](http://www.mysql.com) – Databases
-- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
+- [MySQL](http://www.mysql.com) – Databases
 - [Sequelize](https://sequelize.org/) – Object Relational Mapper (ORM)
 - [Passport](http://passportjs.org/) – User Management and Authentication
 
@@ -17,9 +17,9 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 zinzindev/CC14-Recap-FullStack-Todolist-API is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/1025/logo-mysql-170x170.png' alt='MySQL'/> [MySQL](http://www.mysql.com) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1025/logo-mysql-170x170.png' alt='MySQL'/> [MySQL](http://www.mysql.com) – Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/3211/3591786.png' alt='Sequelize'/> [Sequelize](https://sequelize.org/) – Object Relational Mapper (ORM)
 - <img width='25' height='25' src='https://ucarecdn.com/8f3cac0e-b146-4f0f-878c-680a6671d804/' alt='Passport'/> [Passport](http://passportjs.org/) – User Management and Authentication
 
@@ -32,7 +32,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [zinzindev/CC14-Recap-FullStack-Todolist-API](https://github.com/zinzindev/CC14-Recap-FullStack-Todolist-API)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|15<br/>Tools used|01/31/24 <br/>Report generated|
+|15<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
